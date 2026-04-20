@@ -32,6 +32,10 @@ The hybrid approach demonstrates better detection performance compared to tradit
 **Authors:** Shivani Gautam, Dr. Koj Sambyo  
 **Journal:** Journal of Computer Virology and Hacking Techniques (Under Review, 2026)
 
+**Paper/Report:**  
+- GitHub: docs/thesis.pdf  
+- Google Drive: [https://your-drive-link](https://drive.google.com/file/d/1lRDNCacQWzx_7bFIrbhXgLScTviPKrkb/view?usp=sharing)
+
 ## Repository Structure
 - `/docs` – Thesis report / paper
 - `/code` – Implementation 
